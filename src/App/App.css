@@ -53,12 +53,6 @@ body{
   background-size:cover;
   z-index: -1;
 }
-.container{
-  height:100%;
-  max-width:1000px;
-  margin-left: auto;
-  margin-right: auto;
-  padding:0;
-}
+
 
 

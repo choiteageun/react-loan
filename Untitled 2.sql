@@ -1,0 +1,1 @@
+SELECT * FROM consultations LIMIT 100;
